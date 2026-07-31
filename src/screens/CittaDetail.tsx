@@ -2,8 +2,9 @@ import { useParams, Link } from 'react-router-dom';
 import { guida } from '../data';
 import { HOTEL_CONSIGLIATI } from '../data/hotels';
 import { ScreenHeader } from '../components/ScreenHeader';
-import { BadgeCane, BadgePriorita, BadgePrezzo, AvvisoBox } from '../components/Badge';
+import { BadgeCane, BadgePriorita, BadgePrezzo, BadgePasti, AvvisoBox } from '../components/Badge';
 import { MapsButton } from '../components/MapsButton';
+import { BookingButton } from '../components/BookingButton';
 
 function InfoSection({ label, testo }: { label: string; testo: string }) {
   return (
@@ -103,6 +104,7 @@ export function CittaDetail() {
                   <div className="flex flex-wrap gap-1.5 mt-1.5">
                     <BadgePrezzo prezzo={r.prezzo} />
                     <BadgeCane cane={r.cane} />
+                    <BadgePasti orari={r.orari} />
                   </div>
                 </div>
                 <span className="text-gray-300 text-xl flex-shrink-0" aria-hidden="true">
@@ -133,6 +135,7 @@ export function CittaDetail() {
                   {h.note && (
                     <p className="text-sm text-gray-500 mt-1.5 leading-snug">{h.note}</p>
                   )}
+                  <BookingButton nome={h.nome} citta={citta.nome} />
                 </div>
               ))}
             </div>

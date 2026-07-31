@@ -1,7 +1,7 @@
 import { useParams } from 'react-router-dom';
 import { guida } from '../data';
 import { ScreenHeader } from '../components/ScreenHeader';
-import { BadgeCane, BadgePrezzo } from '../components/Badge';
+import { BadgeCane, BadgePrezzo, BadgePasti } from '../components/Badge';
 import { MapsButton } from '../components/MapsButton';
 
 export function RistoranteDetail() {
@@ -25,6 +25,7 @@ export function RistoranteDetail() {
         <div className="flex flex-wrap gap-2">
           <BadgePrezzo prezzo={rist.prezzo} />
           <BadgeCane cane={rist.cane} />
+          <BadgePasti orari={rist.orari} />
         </div>
 
         <div className="bg-white rounded-xl border border-gray-100 shadow-sm p-4">

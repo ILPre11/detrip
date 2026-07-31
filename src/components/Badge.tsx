@@ -1,3 +1,5 @@
+import { getPastiDisponibili } from '../lib/pasti';
+
 // Classificazione badge cane: 3 stati come da SPEC §2
 type CaneStatus = 'ok' | 'vietato' | 'verifica';
 
@@ -55,6 +57,32 @@ export function BadgePrezzo({ prezzo }: { prezzo: string }) {
     <span className="inline-flex px-2.5 py-1 rounded-full text-sm font-medium bg-gray-50 text-gray-700 border border-gray-200">
       {euro}
     </span>
+  );
+}
+
+export function BadgePasti({ orari }: { orari: string }) {
+  const { colazionePranzo, cena } = getPastiDisponibili(orari);
+  return (
+    <>
+      {colazionePranzo && (
+        <span
+          title="Colazione/pranzo"
+          className="inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-sm font-medium bg-sky-50 text-sky-800 border border-sky-200"
+        >
+          <span aria-hidden="true">☕</span>
+          Colazione/pranzo
+        </span>
+      )}
+      {cena && (
+        <span
+          title="Cena"
+          className="inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-sm font-medium bg-indigo-50 text-indigo-800 border border-indigo-200"
+        >
+          <span aria-hidden="true">🌙</span>
+          Cena
+        </span>
+      )}
+    </>
   );
 }
 
