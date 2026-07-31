@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "titolo": "Germania culturale in auto",
+    "sottotitolo": "Anello da Milano · 11-21 agosto 2026 · 10 notti",
+    "viaggiatori": "2 adulti + Jack Russell",
+    "struttura": "6 basi (Augusta come sosta di transito)",
+    "dataInizio": "2026-08-11",
+    "dataFine": "2026-08-21",
+    "percorso": "Milano - Friburgo - Heidelberg - Rothenburg - Bamberg - Regensburg - (Augusta) - Costanza - Milano",
+    "pedaggi": {
+      "svizzera": "Vignetta annuale 40 CHF (~42 EUR), una sola per andata e ritorno, e-vignette su via.admin.ch",
+      "germania": "Nessun pedaggio per le auto",
+      "italia": "Caselli autostradali sui tratti italiani",
+      "austria": "Fuori itinerario: nessuna vignetta austriaca"
+    },
+    "cane": {
+      "documenti": "Microchip, vaccinazione antirabbica valida (almeno 21 giorni dalla prima o dal richiamo tardivo), passaporto europeo. La Svizzera applica gli stessi requisiti e chiede di presentare l'animale in dogana.",
+      "inAuto": "Pausa ogni 90-120 minuti, tappetino rinfrescante, acqua e ciotola pieghevole, pettorina, guinzaglio corto, museruola leggera, copia digitale del passaporto. Mai lasciarlo nell'auto parcheggiata.",
+      "regolaGenerale": "Dove la politica canina non e' pubblicata, considerare gli interni di musei, chiese e palazzi non accessibili e alternarsi durante la visita."
+    },
+    "note": {
+      "ferragosto": "Il 15 agosto e' sabato. In Baviera l'Assunzione e' festiva solo nei comuni con il requisito demografico previsto (1.708 su 2.056), non ovunque: verificare le aperture della singola localita'.",
+      "prenotazioni": "Orari controllati al 31/07/2026. In agosto possono cambiare per ferie/eventi: prenotare e riconfermare 24-48h prima."
+    }
+  },
+
+  "itinerario": [
+    { "giorno": 1, "data": "2026-08-11", "settimana": "Martedi", "da": "Milano", "a": "Friburgo", "km": 430, "guida": "~5h", "base": "friburgo",
+      "piano": "Partenza presto (entro le 7:30-8:00) per evitare le code estive al Gottardo; alternativa San Bernardino. Arrivo nel pomeriggio, check-in. Sera: Martinstor, Bachle, Augustinerplatz, Munsterplatz e cena in centro." },
+    { "giorno": 2, "data": "2026-08-12", "settimana": "Mercoledi", "da": "Friburgo", "a": "Friburgo", "km": 0, "guida": "in zona", "base": "friburgo",
+      "piano": "Munster e mercato in mattinata, poi 60-90 min all'Augustinermuseum. Pausa lunga in hotel. Nel pomeriggio salita meccanizzata allo Schlossberg (Schlossbergbahn). In alternativa Staufen al posto di museo o Schlossberg, non entrambi." },
+    { "giorno": 3, "data": "2026-08-13", "settimana": "Giovedi", "da": "Friburgo", "a": "Heidelberg", "km": 185, "guida": "~1h40", "base": "heidelberg",
+      "piano": "Arrivo e check-in. Hauptstrasse percorsa solo in parte, Marktplatz, Heiliggeistkirche e Alte Brucke al tramonto." },
+    { "giorno": 4, "data": "2026-08-14", "settimana": "Venerdi", "da": "Heidelberg", "a": "Heidelberg", "km": 0, "guida": "in zona", "base": "heidelberg",
+      "piano": "IMPORTANTE: il giardino del castello e' occupato dall'evento Sunset Vibes dalle 16:00, quindi va visto la MATTINA. Funicolare alle 9:00, castello e museo fino a mezzogiorno; pranzo e riposo; tardo pomeriggio Kornmarkt, Universitatsplatz e ponte. Evitare il Philosophenweg (ripido)." },
+    { "giorno": 5, "data": "2026-08-15", "settimana": "Sabato", "da": "Heidelberg", "a": "Rothenburg", "km": 160, "guida": "~2h", "base": "rothenburg",
+      "piano": "Ferragosto (sabato): verificare le aperture locali. Arrivo entro le 16:00, check-in, circuito Marktplatz-Plonlein-Spitalviertel, riposo. Rothenburg da' il meglio di sera, dopo la partenza dei gruppi in giornata: passeggiata serale." },
+    { "giorno": 6, "data": "2026-08-16", "settimana": "Domenica", "da": "Rothenburg", "a": "Bamberg", "km": 130, "guida": "~1h30", "base": "bamberg",
+      "piano": "Mattina: St. Jakob all'apertura, Burggarten, un solo museo (il Kriminalmuseum ammette il cane) e 15-20 min di mura. Trasferimento a Bamberg nel pomeriggio. Sera: Altes Rathaus, Gruner Markt, passeggiata fino a Klein Venedig." },
+    { "giorno": 7, "data": "2026-08-17", "settimana": "Lunedi", "da": "Bamberg", "a": "Bamberg", "km": 0, "guida": "in zona", "base": "bamberg",
+      "piano": "Taxi o bus fino al Duomo, Neue Residenz e roseto; discesa graduale verso il Visitor Centre, pranzo e riposo; tardo pomeriggio Gartnerstadt o birreria. Alternativa rilassata a una gita: Schloss Seehof (il report sconsiglia Norimberga per questo gruppo, +2h di auto)." },
+    { "giorno": 8, "data": "2026-08-18", "settimana": "Martedi", "da": "Bamberg", "a": "Regensburg", "km": 160, "guida": "~1h25", "base": "regensburg",
+      "piano": "Mattina eventuale a Bamberg. Arrivo a Regensburg nel primo pomeriggio: Visitor Centre, Steinerne Brucke, Stadtamhof e pausa in Biergarten. In serata Domplatz, Krauterermarkt, Rathausplatz." },
+    { "giorno": 9, "data": "2026-08-19", "settimana": "Mercoledi", "da": "Regensburg", "a": "Costanza", "km": 356, "guida": "~4h + sosta", "base": "costanza",
+      "piano": "Giorno piu' lungo. Partenza entro le 8:00-8:30. SOSTA AD AUGUSTA ~10:15-15:00: Fuggerei, Rotes Tor e canali, pranzo, Rathausplatz (interno del Rathaus chiuso: solo mostra provvisoria nell'ingresso). Ripartenza entro le 15:00, arrivo a Costanza verso le 18:00. Sera: porto, Imperia, Marktstatte, Niederburg." },
+    { "giorno": 10, "data": "2026-08-20", "settimana": "Giovedi", "da": "Costanza", "a": "Costanza", "km": 0, "guida": "in zona", "base": "costanza",
+      "piano": "Scegliere UNA formula. Cultura: Reichenau al mattino in auto, pranzo sull'isola, Rosgartenmuseum o Munster nel tardo pomeriggio. Giardini e cane: Mainau dalle 9:00 alle 13:00, pausa lunga, porto al tramonto. Meersburg puo' sostituire Reichenau, ma non abbinarla a Mainau nello stesso giorno." },
+    { "giorno": 11, "data": "2026-08-21", "settimana": "Venerdi", "da": "Costanza", "a": "Milano", "km": 380, "guida": "~4h", "base": null,
+      "piano": "Partenza dopo colazione via Kreuzlingen-Zurigo-Gottardo (o San Bernardino). Soste per il cane lungo il percorso. Arrivo a Milano nel pomeriggio." }
+  ],
+
+  "citta": [
+    { "id": "friburgo", "nome": "Friburgo (Freiburg im Breisgau)", "notti": 2, "regione": "Baden-Wurttemberg",
+      "sintesi": "Nucleo compatto e in gran parte pianeggiante tra stazione, centro e Munsterplatz.",
+      "parcheggio": "Itinerario urbano di ~2,5 km quasi privo di barriere (attenzione ad acciottolato e Bachle). Parcheggi di interscambio per chi alloggia fuori.",
+      "cane": "Ottima all'aperto: Schlossberg, boschi e passeggiate. Interni di Munster e musei da verificare. Non far camminare il cane sull'asfalto nelle ore centrali.",
+      "escursione": "Staufen im Breisgau (borgo tra vigneti, ~2h). Alternative: Breisach, Gengenbach.",
+      "piatto": "Lange Rote (salsiccia lunga del Munstermarkt)" },
+    { "id": "heidelberg", "nome": "Heidelberg", "notti": 2, "regione": "Baden-Wurttemberg",
+      "sintesi": "Castello rinascimentale, citta' vecchia, Heiliggeistkirche, Alte Brucke ed eredita' universitaria.",
+      "parcheggio": "Non salire in auto al castello: parcheggi della citta' bassa e funicolare da Kornmarkt. Nel 2026 lavori alla viabilita' di accesso: preferire il garage dell'hotel o ai margini dell'Altstadt.",
+      "cane": "Funicolare ammessa al guinzaglio (museruola per soggetti a rischio, trasportino per i piccoli). Interni del castello esclusi prudenzialmente: alternarsi.",
+      "escursione": "Ladenburg (centro romano-medievale pianeggiante), Schwetzingen (palazzo e giardino). Evitare il Philosophenweg (ripido).",
+      "piatto": "Cucina del Kurpfalz / schnitzel" },
+    { "id": "rothenburg", "nome": "Rothenburg ob der Tauber", "notti": 1, "regione": "Franconia (Baviera)",
+      "sintesi": "Borgo murato medievale; da vivere soprattutto la sera, dopo la partenza dei gruppi in giornata.",
+      "parcheggio": "Parcheggiare fuori dalle mura (P1-P5; P4 comodo a est). A pagamento 9:00-18:00, giornaliero auto ~8 EUR.",
+      "cane": "Il camminamento superiore delle mura ha scale strette e passaggi bassi: per i genitori meglio un tratto breve tra Rodertor e Galgentor. Burggarten pianeggiante e ombreggiato. Il Kriminalmuseum ammette i cani al guinzaglio senza supplemento.",
+      "escursione": "Creglingen (Herrgottskirche, altare di Riemenschneider), Weikersheim (palazzo e giardini).",
+      "piatto": "Schneeballen (dolce), Schaufele" },
+    { "id": "bamberg", "nome": "Bamberg", "notti": 2, "regione": "Franconia (Baviera)",
+      "sintesi": "Centro storico UNESCO su sette colli: Bergstadt episcopale, Inselstadt borghese e Gartnerstadt.",
+      "parcheggio": "Garage Untere Konigstrasse (ascensore, aperto in continuazione): buona base per Inselstadt e Obere Konigstrasse.",
+      "cane": "Klein Venedig, lungofiume e l'Hain sono facili. Interni di Duomo, Neue Residenz e Visitor Centre non chiaramente pubblicati: considerarli non accessibili. Biergarten piu' pratici (chiedere conferma).",
+      "escursione": "Memmelsdorf - Schloss Seehof (palazzo barocco, giardini rococo, giochi d'acqua; apr-ott mar-dom 9-18; ascensore).",
+      "piatto": "Bamberger Zwiebel e Rauchbier" },
+    { "id": "regensburg", "nome": "Regensburg (Ratisbona)", "notti": 1, "regione": "Baviera orientale",
+      "sintesi": "Altstadt con Stadtamhof, UNESCO dal 2006: uno dei complessi romanici e gotici piu' integri a nord delle Alpi.",
+      "parcheggio": "Lasciare l'auto nel garage dell'hotel o in un parcheggio centrale e non spostarla fino alla partenza.",
+      "cane": "Stadtamhof e il lungodanubio sono le zone piu' rilassanti; il Grieser Spitz offre verde e ombra. Interni (Duomo, Reichssaal, Visitor Centre) da verificare: privilegiare gli esterni. Per il battello confermare il trasporto del cane con l'operatore.",
+      "escursione": "Donaustauf/Walhalla (anche in battello). Con un giorno extra: Kelheim e Weltenburg attraverso la gola del Danubio.",
+      "piatto": "Bratwurste della Historische Wurstkuchl" },
+    { "id": "augusta", "nome": "Augusta (Augsburg)", "notti": 0, "tipo": "sosta di transito ~4-5h", "regione": "Svevia (Baviera)",
+      "sintesi": "Sosta culturale il 19/08 durante il trasferimento Regensburg-Costanza. Fulcro: la Fuggerei e il sistema idrico UNESCO.",
+      "parcheggio": "Parkhaus Ernst-Reuter-Platz o Annahof, vicini al centro. Un taxi tra Fuggerei e Rotes Tor dimezza la fatica.",
+      "cane": "Media. Il cane e' vietato nello Stadtmarkt. Politiche di Fuggerei e musei da confermare in biglietteria.",
+      "avviso": "Rathaus e Goldener Saal CHIUSI per ristrutturazione: riapertura al pubblico dal 28/09/2026. Il 19/08 visitabile solo la mostra provvisoria nell'ingresso (10:00-17:30); Ratskeller aperto.",
+      "escursione": "Friedberg (non inserita nella strategia a sei basi).",
+      "piatto": "Zwetschgendatschi, Kasspatzen" },
+    { "id": "costanza", "nome": "Costanza (Konstanz) e Lago", "notti": 2, "regione": "Baden-Wurttemberg / Bodensee",
+      "sintesi": "Munster, Niederburg medievale, porto con Imperia, Konzilgebaude; il lago consente giornate meno faticose.",
+      "parcheggio": "Parkhaus Europabrucke (~750 posti, ascensore) verso il centro; per il solo Konzil il Fischmarkt e' il piu' vicino. Ad agosto parcheggiare vicino al lago puo' essere difficile.",
+      "cane": "Centro pianeggiante tra porto, centro e Niederburg. Mainau ammette gratuitamente i cani.",
+      "escursione": "Reichenau (UNESCO, chiese monastiche), Meersburg (borgo e castello, in traghetto, in pendenza), Mainau (isola dei giardini).",
+      "piatto": "Bodenseefelchen (pesce di lago), in alternativa Dunnele o Kasespatzle" }
+  ],
+
+  "luoghi": [
+    { "id": "fr-munster", "citta": "friburgo", "nome": "Freiburger Munster", "priorita": "alta", "descrizione": "Cattedrale con la grande torre gotica che domina la citta'.", "cane": "interni da verificare" },
+    { "id": "fr-munsterplatz", "citta": "friburgo", "nome": "Munsterplatz e Munstermarkt", "priorita": "alta", "descrizione": "Piazza della cattedrale con mercato: architettura, vita locale e gastronomia.", "cane": "all'aperto ok" },
+    { "id": "fr-bachle", "citta": "friburgo", "nome": "Bachle, Schwabentor, Martinstor", "priorita": "media", "descrizione": "I canaletti d'acqua lungo le vie e le porte storiche del centro.", "cane": "all'aperto ok" },
+    { "id": "fr-augustinermuseum", "citta": "friburgo", "nome": "Augustinermuseum", "priorita": "alta", "descrizione": "Arte medievale, sculture dal Munster e opere dal Medioevo al Barocco. Accessibile.", "orari": "mar-gio e weekend 10-17, ven fino 19", "cane": "interni: no" },
+    { "id": "fr-schlossberg", "citta": "friburgo", "nome": "Schlossberg (con Schlossbergbahn)", "priorita": "media", "descrizione": "Miglior punto panoramico; salita meccanizzata. Circuito panoramico ~1,8 km con dislivello: fermarsi alle terrazze vicine all'arrivo.", "cane": "all'aperto ok" },
+
+    { "id": "hd-schloss", "citta": "heidelberg", "nome": "Schloss Heidelberg", "priorita": "alta", "descrizione": "Castello rinascimentale: funicolare inferiore, cortile, terrazza, Grande Botte e Deutsches Apotheken-Museum inclusi nel biglietto; interni residenziali solo con tour guidato.", "orari": "cortile/terrazza/Grande Botte 9-18, ultimo ingresso 17:30", "avviso": "Il 14 e 15 agosto il giardino chiude alle 15:00 per l'evento Sunset Vibes (16:00-22:00): visitare il giardino la mattina del 14.", "cane": "funicolare ok al guinzaglio; interni esclusi", "verificato": true },
+    { "id": "hd-altstadt", "citta": "heidelberg", "nome": "Altstadt e Hauptstrasse", "priorita": "alta", "descrizione": "Una delle vie pedonali piu' lunghe d'Europa; Marktplatz e centro storico.", "cane": "all'aperto ok" },
+    { "id": "hd-heiliggeist", "citta": "heidelberg", "nome": "Heiliggeistkirche", "priorita": "media", "descrizione": "Chiesa gotica sulla Marktplatz.", "cane": "interni da verificare" },
+    { "id": "hd-altebrucke", "citta": "heidelberg", "nome": "Alte Brucke (Ponte Vecchio)", "priorita": "alta", "descrizione": "Ponte sul Neckar con la vista classica sul castello, migliore al tramonto.", "cane": "all'aperto ok" },
+
+    { "id": "ro-stjakob", "citta": "rothenburg", "nome": "St.-Jakobs-Kirche", "priorita": "alta", "descrizione": "Custodisce l'Heilig-Blut-Altar di Tilman Riemenschneider.", "orari": "visitare all'apertura", "cane": "interni: no" },
+    { "id": "ro-mura", "citta": "rothenburg", "nome": "Mura cittadine", "priorita": "alta", "descrizione": "Cinta di ~4 km con 46 torri storiche; non serve percorrerla tutta. Tratto consigliato Rodertor-Galgentor.", "cane": "all'aperto ok" },
+    { "id": "ro-plonlein", "citta": "rothenburg", "nome": "Plonlein, Marktplatz, Burggarten", "priorita": "alta", "descrizione": "L'angolo piu' fotografato, la piazza principale e il giardino pianeggiante e ombreggiato.", "cane": "all'aperto ok" },
+    { "id": "ro-museum", "citta": "rothenburg", "nome": "RothenburgMuseum", "priorita": "media", "descrizione": "Otto secoli di storia cittadina nell'ex convento domenicano, con cucina conventuale medievale.", "orari": "apr-ott ogni giorno 10-18", "cane": "interni da verificare" },
+    { "id": "ro-kriminalmuseum", "citta": "rothenburg", "nome": "Mittelalterliches Kriminalmuseum", "priorita": "media", "descrizione": "Storia giuridica europea dal Medioevo all'eta' moderna.", "cane": "AMMESSO al guinzaglio senza supplemento", "verificato": false },
+
+    { "id": "ba-dom", "citta": "bamberg", "nome": "Bamberger Dom", "priorita": "alta", "descrizione": "Il Duomo, con il celebre Cavaliere di Bamberga.", "cane": "interni: no" },
+    { "id": "ba-residenz", "citta": "bamberg", "nome": "Neue Residenz e roseto", "priorita": "alta", "descrizione": "Palazzo con il Rosengarten e vista panoramica sulla citta'.", "cane": "roseto all'aperto ok; interni no" },
+    { "id": "ba-rathaus", "citta": "bamberg", "nome": "Altes Rathaus e Klein Venedig", "priorita": "alta", "descrizione": "Il municipio costruito sul fiume e la 'Piccola Venezia' delle case dei pescatori.", "cane": "all'aperto ok" },
+    { "id": "ba-welterbe", "citta": "bamberg", "nome": "Besucherzentrum Welterbe", "priorita": "media", "descrizione": "Introduzione gratuita e accessibile alla citta' UNESCO, ideale prima della passeggiata.", "orari": "apr-ott 10-18", "cane": "interni da verificare" },
+    { "id": "ba-stmichael", "citta": "bamberg", "nome": "St. Michael", "priorita": "bassa", "descrizione": "Chiesa interessata da lavori.", "orari": "solo ven-dom e festivi 11-16 (verificare)", "cane": "interni: no" },
+
+    { "id": "re-altstadt", "citta": "regensburg", "nome": "Altstadt e Stadtamhof", "priorita": "alta", "descrizione": "Centro UNESCO con ~1000 monumenti su 183 ettari; torri patrizie e Porta Praetoria.", "cane": "all'aperto ok" },
+    { "id": "re-dom", "citta": "regensburg", "nome": "Dom St. Peter", "priorita": "alta", "descrizione": "Cattedrale gotica, cuore della citta'.", "cane": "interni: no" },
+    { "id": "re-brucke", "citta": "regensburg", "nome": "Steinerne Brucke", "priorita": "alta", "descrizione": "Il Ponte di Pietra medievale sul Danubio.", "cane": "all'aperto ok" },
+    { "id": "re-welterbe", "citta": "regensburg", "nome": "Besucherzentrum Welterbe (Salzstadel)", "priorita": "media", "descrizione": "Accanto al ponte, gratuito: riassume la storia cittadina in un ambiente coperto.", "orari": "ogni giorno 10-18", "cane": "interni da verificare" },
+
+    { "id": "au-fuggerei", "citta": "augusta", "nome": "Fuggerei", "priorita": "alta", "descrizione": "Fondata nel XVI secolo, il piu' antico complesso di case popolari al mondo: nucleo culturale della sosta.", "cane": "da confermare in biglietteria" },
+    { "id": "au-wasser", "citta": "augusta", "nome": "Sistema di gestione delle acque UNESCO", "priorita": "alta", "descrizione": "Canali, torri idriche, fontane monumentali e Rotes Tor nel Lechviertel.", "cane": "all'aperto ok" },
+    { "id": "au-rathaus", "citta": "augusta", "nome": "Rathaus e Goldener Saal", "priorita": "media", "descrizione": "Capolavoro della tarda Rinascenza.", "avviso": "CHIUSO per ristrutturazione fino al 28/09/2026. Il 19/08 solo mostra provvisoria nell'ingresso (10-17:30).", "cane": "interni: no", "verificato": true },
+    { "id": "au-stadtmarkt", "citta": "augusta", "nome": "Stadtmarkt", "priorita": "bassa", "descrizione": "Mercato coperto con banchi regionali.", "orari": "lun-ven 7-18, sab fino 17 (alcuni banchi 14), dom chiuso", "cane": "VIETATO" },
+
+    { "id": "ko-konzil", "citta": "costanza", "nome": "Konzilgebaude e porto (Imperia)", "priorita": "alta", "descrizione": "L'edificio storico del Concilio di Costanza, il porto e la statua rotante dell'Imperia.", "cane": "all'aperto ok" },
+    { "id": "ko-niederburg", "citta": "costanza", "nome": "Munster e Niederburg", "priorita": "alta", "descrizione": "La cattedrale e il quartiere medievale della citta' vecchia.", "cane": "interni: no; vicoli ok" },
+    { "id": "ko-reichenau", "citta": "costanza", "nome": "Isola di Reichenau", "priorita": "alta", "descrizione": "Sito UNESCO della civilta' monastica medievale, con le chiese di St. Georg, St. Maria und Markus e St. Peter und Paul.", "tipo": "escursione", "cane": "all'aperto ok" },
+    { "id": "ko-mainau", "citta": "costanza", "nome": "Isola di Mainau", "priorita": "media", "descrizione": "L'isola dei fiori: esperienza soprattutto di giardini, molto accessibile.", "orari": "agosto 9-19", "tipo": "escursione", "cane": "AMMESSO gratuitamente", "verificato": false },
+    { "id": "ko-meersburg", "citta": "costanza", "nome": "Meersburg", "priorita": "media", "descrizione": "Il borgo piu' scenografico, con castello medievale; raggiungibile in traghetto, in forte pendenza.", "tipo": "escursione", "cane": "all'aperto ok" }
+  ],
+
+  "ristoranti": [
+    { "id": "fr-feierling", "citta": "friburgo", "nome": "Hausbrauerei Feierling", "cucina": "Regionale, birra non filtrata, Flammkuchen", "prezzo": "EE", "orari": "Gaststatte ~18-24, Biergarten 11-23", "cane": "Biergarten comodo", "perche": "Grande spazio esterno e atmosfera locale." },
+    { "id": "fr-martinsbrau", "citta": "friburgo", "nome": "Martin's Brau", "cucina": "Birra propria, cucina badese e tedesca", "prezzo": "EE", "orari": "dom-gio 11-23, ven-sab fino 24", "cane": "verificare", "perche": "Centralissimo presso Martinstor." },
+    { "id": "fr-rotenbaren", "citta": "friburgo", "nome": "Zum Roten Baren", "cucina": "Regionale curata, locanda storica", "prezzo": "EE-EEE", "orari": "mar-sab 12-23 (cucina 12-14 e 18-21)", "cane": "verificare", "perche": "Cena tranquilla e prenotata in ambiente storico." },
+    { "id": "fr-greiffenegg", "citta": "friburgo", "nome": "Greiffenegg Schlossle", "cucina": "Badese stagionale, terrazza panoramica", "prezzo": "EE-EEE", "orari": "Biergarten ~11-23 con bel tempo (ascensore interno)", "cane": "terrazza ok", "perche": "Panorama senza affrontare tutta la salita dello Schlossberg." },
+    { "id": "fr-langerote", "citta": "friburgo", "nome": "Munstermarkt - Lange Rote", "cucina": "Salsiccia lunga alla griglia", "prezzo": "E", "orari": "lun-ven ~7:30-13:30, sab fino 14", "cane": "all'aperto ok", "perche": "Il pranzo rapido piu' caratteristico, si mangia in piazza." },
+
+    { "id": "hd-vetters", "citta": "heidelberg", "nome": "Vetter's Alt Heidelberger Brauhaus", "cucina": "Birra artigianale, stinco, arrosti del Palatinato", "prezzo": "EE", "orari": "dom-gio ~11:30-24, ven-sab fino 1", "cane": "verificare", "perche": "Centrale presso l'Alte Brucke, orario continuato." },
+    { "id": "hd-schnitzelbank", "citta": "heidelberg", "nome": "Schnitzelbank", "cucina": "Schnitzel, Maultaschen, vini regionali", "prezzo": "EE", "orari": "lun-ven 17-22, sab-dom 12-22 (cucina fino 21)", "cane": "spazi ridotti", "perche": "Piccola Weinstube caratteristica; prenotare." },
+    { "id": "hd-hackteufel", "citta": "heidelberg", "nome": "Hackteufel", "cucina": "Tedesca e del Kurpfalz, vini locali", "prezzo": "EE", "orari": "dom-gio 11:30-21:30, ven-sab fino 22", "cane": "chiedere tavolo al piano terra", "perche": "Atmosfera storica vicino al ponte." },
+    { "id": "hd-joemolese", "citta": "heidelberg", "nome": "Joe Molese", "cucina": "Burger, panini, pranzo rapido", "prezzo": "E", "orari": "ogni giorno ~12-22", "cane": "verificare", "perche": "Pausa informale durante la visita dell'Altstadt." },
+
+    { "id": "ro-glocke", "citta": "rothenburg", "nome": "Hotel-Gasthof Glocke", "cucina": "Francone, Schaufele, vini del Tauber", "prezzo": "EE", "orari": "lun-sab ~11-21, dom 11-14", "cane": "verificare", "perche": "Vicino al Plonlein, pratico per cena anticipata." },
+    { "id": "ro-reichskuchen", "citta": "rothenburg", "nome": "Reichskuchenmeister", "cucina": "Francone e bavarese, selvaggina", "prezzo": "EE-EEE", "orari": "ogni giorno 11:30-23 (cucina fino 21)", "cane": "tavolo esterno", "perche": "Ambiente storico e orario ampio." },
+    { "id": "ro-lamm", "citta": "rothenburg", "nome": "Goldenes Lamm", "cucina": "Bratwurst, arrosti, schnitzel", "prezzo": "EE", "orari": "ogni giorno ~11-22", "cane": "verificare", "perche": "Semplice e poco formale, porzioni condivisibili." },
+    { "id": "ro-diller", "citta": "rothenburg", "nome": "Diller Schneeballencafe", "cucina": "Schneeballen (dolce simbolo)", "prezzo": "E", "orari": "~10-18 (riconfermare)", "cane": "verificare", "perche": "Per provare il dolce tipico; meglio dividerne uno." },
+    { "id": "ro-brotzeit", "citta": "rothenburg", "nome": "Brot & Zeit", "cucina": "Panini, forno, colazione/pranzo rapido", "prezzo": "E", "orari": "~7-18, dom da 7:30", "cane": "verificare", "perche": "Utile per il pranzo prima di partire verso Bamberg." },
+
+    { "id": "ba-schlenkerla", "citta": "bamberg", "nome": "Schlenkerla", "cucina": "Rauchbier, Bamberger Zwiebel, Schauferla", "prezzo": "EE", "orari": "~9:30-23:30 (cucina fino 22)", "cane": "verificare", "perche": "L'esperienza gastronomica piu' identitaria della citta'." },
+    { "id": "ba-kachelofen", "citta": "bamberg", "nome": "Kachelofen", "cucina": "Tradizionale francone, cipolla ripiena", "prezzo": "EE", "orari": "cucina ~11:30-21", "cane": "verificare", "perche": "Centrale, servizio continuato." },
+    { "id": "ba-hofbrau", "citta": "bamberg", "nome": "Hofbrau Bamberg", "cucina": "Regionale rivisitata, arrosti, pesce", "prezzo": "EE-EEE", "orari": "mer-lun ~11-23, mar dal tardo pomeriggio", "cane": "verificare", "perche": "Ambiente piu' tranquillo e moderno." },
+    { "id": "ba-spezial", "citta": "bamberg", "nome": "Brauereigasthof Spezial", "cucina": "Rauchbier Spezial, Brotzeit", "prezzo": "EE", "orari": "lun-ven e dom 9-22:30, sab fino 14", "cane": "verificare", "perche": "Birreria storica autentica, vicina al centro." },
+    { "id": "ba-fassla", "citta": "bamberg", "nome": "Fassla-Keller", "cucina": "Schauferla, Sauerbraten, Brotzeit", "prezzo": "E-EE", "orari": "apr-ott ~10-23", "cane": "Biergarten ok", "perche": "Grande Biergarten sotto i castagni; comodo in taxi." },
+
+    { "id": "re-weltenburger", "citta": "regensburg", "nome": "Weltenburger am Dom", "cucina": "Arrosti bavaresi, birra di Weltenburg", "prezzo": "EE", "orari": "ogni giorno ~11:30-23 (cucina fino 21)", "cane": "verificare", "perche": "Accanto al Duomo, elimina spostamenti." },
+    { "id": "re-altelinde", "citta": "regensburg", "nome": "Alte Linde", "cucina": "Schweinebraten, Bratwurst, birra Kneitinger", "prezzo": "EE", "orari": "orari 2026 incerti, riconfermare", "cane": "Biergarten ok", "perche": "Biergarten con vista su Danubio e citta'." },
+    { "id": "re-spitalgarten", "citta": "regensburg", "nome": "Spitalgarten", "cucina": "Bavarese, arrosti, birra Spital", "prezzo": "EE", "orari": "~10/11-23 (cucina fino 22)", "cane": "AMMESSI; accessibile", "perche": "Grande giardino sul Danubio." },
+    { "id": "re-wurstkuchl", "citta": "regensburg", "nome": "Historische Wurstkuchl", "cucina": "Bratwurst alla griglia con crauti", "prezzo": "E", "orari": "da apr ogni giorno 10-19", "cane": "tavoli esterni", "perche": "Pranzo simbolo della citta', accanto al ponte." },
+
+    { "id": "au-riegele", "citta": "augusta", "nome": "Riegele Wirtshaus", "cucina": "Svevo-bavarese, Kasspatzen, birra Riegele", "prezzo": "EE", "orari": "ogni giorno ~11-24", "cane": "verificare", "perche": "Facile da raggiungere per un pranzo completo." },
+    { "id": "au-ratskeller", "citta": "augusta", "nome": "Ratskeller Augsburg", "cucina": "Bavarese e sveva, ambiente storico", "prezzo": "EE", "orari": "dom-gio ~11-23, ven-sab fino 24", "cane": "verificare", "perche": "Sotto il Rathaus (aperto anche durante i lavori)." },
+    { "id": "au-zeughaus", "citta": "augusta", "nome": "Zeughaus Stuben", "cucina": "Bavarese, piatti alla griglia", "prezzo": "EE", "orari": "cucina ~11:30-22", "cane": "Biergarten comodo", "perche": "Grande Biergarten centrale, comodo con cane e genitori." },
+
+    { "id": "ko-konzil", "citta": "costanza", "nome": "Konzil Konstanz", "cucina": "Regionale, pesce, terrazza sul porto", "prezzo": "EE-EEE", "orari": "ogni giorno 9:30-22 (cucina fino 21:30)", "cane": "verificare", "perche": "Cena nello storico edificio del Konzil, sul porto." },
+    { "id": "ko-wirtshaus", "citta": "costanza", "nome": "Constanzer Wirtshaus", "cucina": "Sveva, Kasespatzle, birra", "prezzo": "EE", "orari": "ogni giorno 11-23 (cucina fino 22)", "cane": "terrazza (conferma)", "perche": "Grande terrazza sul Reno, informale." },
+    { "id": "ko-albrecht", "citta": "costanza", "nome": "Brauhaus Joh. Albrecht", "cucina": "Birra prodotta in loco, stinco, schnitzel", "prezzo": "EE", "orari": "ogni giorno da 12 (cucina 12-22)", "cane": "DOG-FRIENDLY segnalato", "perche": "Nel Niederburg, politica canina piu' chiara." },
+    { "id": "ko-hafenhalle", "citta": "costanza", "nome": "Hafenhalle", "cucina": "Tedesca, Biergarten", "prezzo": "EE", "orari": "lun-ven da 12, sab-dom da 10", "cane": "Biergarten ok", "perche": "Ampio spazio vicino al porto, senza prenotare." },
+    { "id": "ko-kervan", "citta": "costanza", "nome": "Kervan Imbiss / Konzil Grab & Go", "cucina": "Doner, borek, falafel / snack", "prezzo": "E", "orari": "Kervan ogni giorno 11-21", "cane": "all'aperto ok", "perche": "Pranzo veloce da passeggio, senza lunghe attese per il cane." }
+  ],
+
+  "hotel": {
+    "criteri": "Privilegiare ascensore, aria condizionata o buona ventilazione, parcheggio in struttura, doccia senza gradino, camere non esposte sulla strada. 'Haustiere erlaubt' non implica accesso alla sala colazione ne' assenza di supplemento: chiedere per iscritto costo, aree consentite, camera al piano servito dall'ascensore e possibilita' di lasciare il cane in camera per brevi periodi.",
+    "daPrenotare": [
+      { "citta": "friburgo", "notti": 2, "nome": null },
+      { "citta": "heidelberg", "notti": 2, "nome": null },
+      { "citta": "rothenburg", "notti": 1, "nome": null },
+      { "citta": "bamberg", "notti": 2, "nome": null },
+      { "citta": "regensburg", "notti": 1, "nome": null },
+      { "citta": "costanza", "notti": 2, "nome": null }
+    ]
+  }
+}
